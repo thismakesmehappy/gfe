@@ -1,1 +1,1 @@
-Respository for Great Front End challenges
+Repository for Great Front End challenges
